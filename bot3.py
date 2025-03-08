@@ -12,8 +12,8 @@ import asyncio
 os.environ['TZ'] = 'Europe/Kiev'
 time.tzset()
 
-TOKEN = '7493606940:AAGRp7FGfVUDrhOZ9O4clIW52DH5wrFw0EE'
-CHANNEL_ID = '@botforAC'
+TOKEN = ''
+CHANNEL_ID = ''
 
 banned_words = ['хохол', 'хуй', 'пізда']
 banned_symbols = ['Ъ', 'ъ', 'Ы', 'ы', 'Э', 'э', 'Ё', 'ё']
