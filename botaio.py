@@ -14,7 +14,7 @@ logger = logging.getLogger(__name__)
 TOKEN = '7493606940:AAGRp7FGfVUDrhOZ9O4clIW52DH5wrFw0EE'
 CHANNEL_ID = '@botforAC'
 
-banned_words = ['хохол', 'хуй', 'пізда']
+banned_words = ['хохол', 'хуй', 'пbзда']
 banned_symbols = ['Ъ', 'ъ', 'Ы', 'ы', 'Э', 'э', 'Ё', 'ё']
 allowed_languages = ['uk', 'en']
 
