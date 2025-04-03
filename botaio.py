@@ -11,7 +11,7 @@ from datetime import datetime
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-TOKEN = '7493606940:AAGRp7FGfVUDrhOZ9O4clIW52DH5wrFw0EE'
+TOKEN = ''
 CHANNEL_ID = '@botforAC'
 
 banned_words = ['хохол', 'хуй', 'пbзда']
